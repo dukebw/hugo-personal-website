@@ -43,7 +43,6 @@ Machine learning engineer
   />
 </p>
 <div>
-
 I am a software engineer keenly interested in all manner of systems, and a Machine Learning Team Lead at [ModiFace, Inc](https://modiface.com).
 My research interests include machine learning, deep learning, and computer vision.
 At ModiFace I apply deep learning to the beauty tech space to create augmented reality (AR) virtual experiences.
@@ -57,9 +56,16 @@ Prior to that I worked at AMD writing firmware for the [AMD Secure Processor](ht
 
 ## Research
 
-### SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation
+<div class="row">
+<p class="imgp">
+  <img
+    style="max-width: 300px;"
+    src="./assets/images/sstvos.png"
+  />
+</p>
+<div>
 
-![SSTVOS Architecture](assets/images/sstvos.png)
+### SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation
 
 **Brendan Duke**, Abdalla Ahmed, Christian Wolf, Parham Aarabi, Graham W. Taylor
 
@@ -69,10 +75,19 @@ Prior to that I worked at AMD writing firmware for the [AMD Secure Processor](ht
 
 We introduce a Transformer-based approach to video object segmentation (VOS).
 Our method, called Sparse Spatiotemporal Transformers (SST), extracts per-pixel representations for each object in a video using sparse attention over spatiotemporal features.
+</div>
+</div>
+
+<div class="row">
+<p class="imgp">
+  <img
+    style="max-width: 300px;"
+    src="./assets/images/loho.png"
+  />
+</p>
+<div>
 
 ### LOHO: Latent Optimization of Hairstyles via Orthogonalization
-
-![LOHO Preview](assets/images/loho.png)
 
 Rohit Saha, **Brendan Duke**, Florian Shkurti, Graham W. Taylor, Parham Aarabi
 
@@ -84,9 +99,20 @@ We propose Latent Optimization of Hairstyles via Orthogonalization (LOHO), an op
 Using LOHO for latent space manipulation, users can synthesize novel photorealistic images by manipulating hair attributes either individually or jointly, transferring the desired attributes from reference
 hairstyles.
 
-### Attention and Fusion of Deep Representations for Computer Vision
+</div>
+</div>
 
-![MASc Thesis](assets/images/masc-thesis.png)
+<div class="row">
+<p class="imgp">
+  <img
+    style="max-width: 300px;"
+    src="./assets/images/masc-thesis.png"
+  />
+</p>
+
+<div>
+
+### Attention and Fusion of Deep Representations for Computer Vision
 
 **Brendan Duke**
 
@@ -97,9 +123,20 @@ hairstyles.
 In my master's work I investigated attention and multimodal fusion operators.
 I applied these operators to visual question answering (VQA) and video object segmentation (VOS).
 
-### Nail Polish Try-On: Realtime Semantic Segmentation of Small Objects for Native and Browser Smartphone AR Applications
+</div>
+</div>
 
-![Nail Polish Try On](assets/images/nail-polish-try-on.png)
+<div class="row">
+<p class="imgp">
+  <img
+    style="max-width: 300px;"
+    src="./assets/images/nail-polish-try-on.png"
+  />
+</p>
+
+<div>
+
+### Nail Polish Try-On: Realtime Semantic Segmentation of Small Objects for Native and Browser Smartphone AR Applications
 
 **Brendan Duke**, Abdalla Ahmed, Edmund Phung, Irina Kezele, Parham Aarabi
 
@@ -110,9 +147,19 @@ I applied these operators to visual question answering (VQA) and video object se
 We provide a system for semantic segmentation of small objects that enables nail polish try-on AR applications to run client-side in realtime in native and web mobile applications.
 This work powers a [nail polish brand's virtual try-on experience](https://www.retaildive.com/news/essie-modiface-debut-ar-nail-polish-try-on-tool/595453/).
 
-### Lightweight Real-time Makeup Try-on in Mobile Browsers with Tiny CNN Models for Facial Tracking
+</div>
+</div>
 
-![Tiny CNN](assets/images/tiny-cnn.png)
+<div class="row">
+<p class="imgp">
+  <img
+    style="max-width: 300px;"
+    src="./assets/images/tiny-cnn.png"
+  />
+</p>
+<div>
+
+### Lightweight Real-time Makeup Try-on in Mobile Browsers with Tiny CNN Models for Facial Tracking
 
 Tianxing Li, Zhi Yu, Edmund Phung, **Brendan Duke**, Irina Kezele, Parham Aarabi
 
@@ -123,9 +170,19 @@ Tianxing Li, Zhi Yu, Edmund Phung, **Brendan Duke**, Irina Kezele, Parham Aarabi
 We design small models for high accuracy facial alignment.
 The models we propose make use of light CNN architectures adapted to the facial alignment problem for accurate two-stage prediction of facial landmark coordinates from low-resolution output heatmaps.
 
-### Generalized Hadamard-Product Fusion Operators for Visual Question Answering
+</div>
+</div>
 
-![Generalized Hadamard Product Fusion Operators](assets/images/generalized-hadamard.png)
+<div class="row">
+<p class="imgp">
+  <img
+    style="max-width: 300px;"
+    src="./assets/images/generalized-hadamard.png"
+  />
+</p>
+<div>
+
+### Generalized Hadamard-Product Fusion Operators for Visual Question Answering
 
 **Brendan Duke**, Graham W. Taylor
 
@@ -137,6 +194,5 @@ We propose a generalized class of multimodal fusion operators for the task of vi
 We identify generalizations of existing multimodal fusion operators based on the Hadamard product, and show that specific non-trivial instantiations of this generalized fusion operator exhibit superior
 performance in terms of OpenEnded accuracy on the VQA task.
 
-## Footer
-
-![Mashup Icon](assets/images/mashup-icon.svg)
+</div>
+</div>
