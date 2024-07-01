@@ -43,14 +43,19 @@ Machine learning engineer
   />
 </p>
 <div>
-I am a software engineer keenly interested in all manner of systems, and a Machine Learning Team Lead at [ModiFace, Inc](https://modiface.com).
-My research interests include machine learning, deep learning, and computer vision.
-At ModiFace I apply deep learning to the beauty tech space to create augmented reality (AR) virtual experiences.
+I am a software engineer keenly interested in machine learning systems.
 
+
+I completed my PhD under the guidance of [Parham Aarabi](https://www.ece.utoronto.ca/people/aarabi-p/).
 I had the pleasure of completing my M.A.Sc. at the University of Guelph advised by [Graham Taylor](https://www.gwtaylor.ca/) in the [Machine Learning Research Group (MLRG)](https://www.gwtaylor.ca/).
-My master's thesis focused on [attention and fusion operators in computer vision](https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/21303/Duke_Brendan_202009_MASc.pdf?sequence=6).
+My master's thesis focused on [attention and fusion operators in computer vision](https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/21303/Duke_Brendan_202009_MASc.pdf?sequence=6)
+and my research interests include machine learning, deep learning, and computer
+vision.
 
-Prior to that I worked at AMD writing firmware for the [AMD Secure Processor](https://www.amd.com/en/technologies/pro-security).
+Previously in my career, I was a Machine Learning Team Lead at
+[ModiFace, Inc](https://modiface.com) where I applied deep learning to the
+beauty tech space to create augmented reality (AR) virtual experiences.
+And prior to that I worked at AMD writing firmware for the [AMD Secure Processor](https://www.amd.com/en/technologies/pro-security).
 </div>
 </div>
 
