@@ -44,8 +44,15 @@ I am a software engineer keenly interested in machine learning systems.
 
 
 I completed my PhD under the guidance of [Parham Aarabi](https://www.ece.utoronto.ca/people/aarabi-p/).
-I had the pleasure of completing my M.A.Sc. at the University of Guelph advised by [Graham Taylor](https://www.gwtaylor.ca/) in the [Machine Learning Research Group (MLRG)](https://www.gwtaylor.ca/).
-My master's thesis focused on [attention and fusion operators in computer vision](https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/21303/Duke_Brendan_202009_MASc.pdf?sequence=6)
+My PhD
+[dissertation](https://search.proquest.com/openview/48532cd4045556a2f3b0c970a9b8740d/1?pq-origsite=gscholar&cbl=18750&diss=y)
+focused on sparse methods for improving the performance and effectiveness of
+spatiotemporal attention modules in transformers.
+And I had the pleasure of completing my M.A.Sc. at the University of Guelph
+advised by [Graham Taylor](https://www.gwtaylor.ca/) in the
+[Machine Learning Research Group (MLRG)](https://www.gwtaylor.ca/).
+My master's thesis focused on
+[attention and fusion operators in computer vision](https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/21303/Duke_Brendan_202009_MASc.pdf?sequence=6)
 and my research interests include machine learning, deep learning, and computer
 vision.
 
