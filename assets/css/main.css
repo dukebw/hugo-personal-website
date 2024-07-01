@@ -223,5 +223,33 @@ th {
 
 .row {
   display: flex;
-  gap: 0.5rem;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.image-grid {
+  flex: 1 1 min(200px, 33.33%);
+  max-width: min(200px, 33.33%);
+}
+
+.image-grid img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  max-width: none;
+}
+
+/* Adjust the text content to take up the remaining space */
+.row > div:last-child {
+  flex: 1 1 calc(66.67% - 2rem);
+  min-width: calc(66.67% - 2rem);
+}
+
+/* For smaller screens, allow full width */
+@media (max-width: 768px) {
+  .image-grid,
+  .row > div:last-child {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
 }

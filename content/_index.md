@@ -36,12 +36,9 @@ Machine learning engineer
 ## About me
 
 <div class="row">
-<p class="imgp">
-  <img
-    style="max-width: 200px;"
-    src="./assets/images/brendan1.jpg"
-  />
-</p>
+<div class="image-grid">
+    <img src="./assets/images/brendan1.jpg" alt="Brendan 1" />
+</div>
 <div>
 I am a software engineer keenly interested in machine learning systems.
 
@@ -62,12 +59,9 @@ And prior to that I worked at AMD writing firmware for the [AMD Secure Processor
 ## Research
 
 <div class="row">
-<p class="imgp">
-  <img
-    style="max-width: 300px;"
-    src="./assets/images/sstvos.png"
-  />
-</p>
+<div class="image-grid">
+  <img src="./assets/images/sstvos.png" />
+</div>
 <div>
 
 ### SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation
@@ -84,12 +78,9 @@ Our method, called Sparse Spatiotemporal Transformers (SST), extracts per-pixel 
 </div>
 
 <div class="row">
-<p class="imgp">
-  <img
-    style="max-width: 300px;"
-    src="./assets/images/loho.png"
-  />
-</p>
+<div class="image-grid">
+  <img src="./assets/images/loho.png" />
+</div>
 <div>
 
 ### LOHO: Latent Optimization of Hairstyles via Orthogonalization
@@ -108,12 +99,9 @@ hairstyles.
 </div>
 
 <div class="row">
-<p class="imgp">
-  <img
-    style="max-width: 300px;"
-    src="./assets/images/masc-thesis.png"
-  />
-</p>
+<div class="image-grid">
+  <img src="./assets/images/masc-thesis.png" />
+</div>
 
 <div>
 
@@ -132,12 +120,9 @@ I applied these operators to visual question answering (VQA) and video object se
 </div>
 
 <div class="row">
-<p class="imgp">
-  <img
-    style="max-width: 300px;"
-    src="./assets/images/nail-polish-try-on.png"
-  />
-</p>
+<div class="image-grid">
+  <img src="./assets/images/nail-polish-try-on.png" />
+</div>
 
 <div>
 
@@ -156,12 +141,9 @@ This work powers a [nail polish brand's virtual try-on experience](https://www.r
 </div>
 
 <div class="row">
-<p class="imgp">
-  <img
-    style="max-width: 300px;"
-    src="./assets/images/tiny-cnn.png"
-  />
-</p>
+<div class="image-grid">
+  <img src="./assets/images/tiny-cnn.png" />
+</div>
 <div>
 
 ### Lightweight Real-time Makeup Try-on in Mobile Browsers with Tiny CNN Models for Facial Tracking
@@ -179,12 +161,9 @@ The models we propose make use of light CNN architectures adapted to the facial 
 </div>
 
 <div class="row">
-<p class="imgp">
-  <img
-    style="max-width: 300px;"
-    src="./assets/images/generalized-hadamard.png"
-  />
-</p>
+<div class="image-grid">
+  <img src="./assets/images/generalized-hadamard.png" />
+</div>
 <div>
 
 ### Generalized Hadamard-Product Fusion Operators for Visual Question Answering
