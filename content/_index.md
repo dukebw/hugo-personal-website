@@ -40,6 +40,7 @@ Machine learning engineer
     <img src="./assets/images/brendan1.jpg" alt="Brendan 1" />
 </div>
 <div>
+
 I am a software engineer keenly interested in machine learning systems.
 I work at [Modular](https://www.modular.com/) building a unified
 [framework](https://www.modular.com/max), deep learning compiler, and
