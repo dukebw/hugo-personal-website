@@ -41,7 +41,10 @@ Machine learning engineer
 </div>
 <div>
 I am a software engineer keenly interested in machine learning systems.
-
+I work at [Modular](https://www.modular.com/) building a unified
+[framework](https://www.modular.com/max), deep learning compiler, and
+programming language [Mojo](https://www.modular.com/max/mojo), which are built
+on the [MLIR](https://mlir.llvm.org/) compiler infrastructure.
 
 I completed my PhD under the guidance of [Parham Aarabi](https://www.ece.utoronto.ca/people/aarabi-p/).
 My PhD
