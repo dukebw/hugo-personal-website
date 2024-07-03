@@ -8,11 +8,14 @@ menu:
       url: /
       weight: 1
     - name: "<u>T</u>ags"
-      url: "https://brendanduke.ca/tags"
+      url: "/tags"
+      weight: 3
+    - name: "<u>B</u>log"
+      url: "/post"
       weight: 3
 
 params:
-  description: "Hugo dead simple example"
+  description: "Brendan Duke's personal website"
 
 markup:
   highlight:

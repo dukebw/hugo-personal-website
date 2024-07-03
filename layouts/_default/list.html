@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+
+{{ if not .IsHome }}
+    <h2 class="section-title">{{ .CurrentSection.Title }}</h2>
+    {{ partial "post_list.html" . }}
+{{ end }}
+
+<div class="home-content">{{ .Content }}</div>
+
+{{ partial "footer.html" . }}

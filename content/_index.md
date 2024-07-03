@@ -1,6 +1,6 @@
 ---
 title: "Brendan Duke"
-date: "2024-6-24"
+date: "2024-06-24"
 type: "home"
 layout: "index"
 ---

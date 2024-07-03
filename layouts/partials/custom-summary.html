@@ -1,0 +1,24 @@
+{{ $content := .RawContent }}
+{{ $headers := findRE `(?m)^#+ .*$` $content }}
+
+{{ if ge (len $headers) 2 }}
+    {{ $firstHeader := index $headers 0 }}
+    {{ $secondHeader := index $headers 1 }}
+
+    {{ $parts := split $content $firstHeader }}
+    {{ if ge (len $parts) 2 }}
+        {{ $afterFirstHeader := index $parts 1 }}
+        {{ $parts := split $afterFirstHeader $secondHeader }}
+        {{ if ge (len $parts) 1 }}
+            {{ $summary := index $parts 0 }}
+            {{ $summary := replaceRE `^\s+|\s+$` "" $summary }}
+            {{ $summary | safeHTML }}
+        {{ else }}
+            {{ .Summary }}
+        {{ end }}
+    {{ else }}
+        {{ .Summary }}
+    {{ end }}
+{{ else }}
+    {{ .Summary }}
+{{ end }}

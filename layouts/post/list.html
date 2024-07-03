@@ -1,0 +1,20 @@
+{{ partial "header.html" . }}
+
+<h1>Posts</h1>
+
+{{ partial "search-form.html" . }}
+<ul id="results"></ul>
+
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
+
+{{ range $paginator.Pages }}
+    <article>
+        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <time>{{ .Date.Format "January 2, 2006" }}</time>
+        {{ partial "custom-summary.html" . }}
+    </article>
+{{ end }}
+
+{{ template "_internal/pagination.html" . }}
+
+{{ partial "footer.html" . }}
